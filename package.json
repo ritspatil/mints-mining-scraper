@@ -1,0 +1,23 @@
+{
+  "name": "mint-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.35.3",
+    "webpack-cli": "^3.3.5"
+  },
+  "dependencies": {
+    "firebase": "^6.2.4",
+    "lodash": "^4.17.13",
+    "moment": "^2.24.0"
+  }
+}
